@@ -3,7 +3,7 @@
 
 Note for self:
 
-Be sure to create configmap and secret objects before deploying mongoexpress and mongodb deployment since the deployment yaml contains environmental variables
+Be sure to create configmap and secret objects before deploying/creating mongoexpress and mongodb deployment
 
 Mongoexpress service for external ip adress will say <pending>
 be sure to use minikube command
